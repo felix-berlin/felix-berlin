@@ -1,4 +1,5 @@
 ### Hi there 👋
+![](https://gitwar.herokuapp.com/badge?username=felix-berlin&style=flat-square&label=profile+views)
 
 ### Stats
 [![Felix Scholze GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-berlin&count_private=true&show_icons=true&theme=dark)](https://github.com/felix-berlin/github-readme-stats)
