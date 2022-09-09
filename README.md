@@ -5,7 +5,7 @@
 [![Felix Scholze GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-berlin&count_private=true&show_icons=true&theme=dark)](https://github.com/felix-berlin/github-readme-stats)
 
 ### Daily.dev profile
-<a href="https://app.daily.dev/felix_berlin"><img src="https://api.daily.dev/devcards/b6fee60314874c9ea5de36bbc18b87fc.png?r=6f2" width="400" alt="Felix Scholze's Dev Card"/></a>
+<a href="https://app.daily.dev/felix_berlin"><img src="https://github.com/felix-berlin/felix-berlin/blob/main/devcard.svg" width="400" alt="Felix Scholze's Dev Card"/></a>
 
 <!--
 **felix-berlin/felix-berlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
