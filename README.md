@@ -1,9 +1,4 @@
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-
-### Hi there 👋
-
-### Stats
-[![Felix Scholze GitHub stats](https://github-readme-stats.vercel.app/api?username=felix-berlin&count_private=true&show_icons=true&theme=dark)](https://github.com/felix-berlin/github-readme-stats)
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="650">
 
 ### Daily.dev profile
 <a href="https://app.daily.dev/felix_berlin"><img src="https://github.com/felix-berlin/felix-berlin/blob/main/devcard.svg" width="400" alt="Felix Scholze's Dev Card"/></a>
