@@ -17,6 +17,7 @@ jobs:
           # Your GitHub token
           # The following scopes are required:
           #  - public_access (default scope)
+          #  - repo
           # The following additional scopes may be required:
           #  - read:org      (for organization related metrics)
           #  - read:user     (for user related data)
@@ -39,12 +40,20 @@ jobs:
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
+          plugin_languages_ignored: css
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
+          plugin_languages_threshold: 2%
+          plugin_music: yes
+          plugin_music_limit: 4
+          plugin_music_mode: top
+          plugin_music_provider: lastfm
+          plugin_music_time_range: short
+          plugin_music_top_type: tracks
+          plugin_music_user: Felix_Berlin
           plugin_stars: yes
           plugin_stars_limit: 4
+          plugin_traffic: yes
