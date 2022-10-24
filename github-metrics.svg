@@ -2301,7 +2301,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gilbarbara/logos</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A huge collection of SVG logos</div>
@@ -2348,7 +2348,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keepassxreboot/keepassxc</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.</div>
@@ -2401,7 +2401,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lowlighter/metrics</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!</div>
@@ -2454,7 +2454,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vueuse/vue-chemistry</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Reactified JavaScript functions for Vue</div>
@@ -3400,7 +3400,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2022, 00:25:39 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Oct 2022, 01:29:53 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
