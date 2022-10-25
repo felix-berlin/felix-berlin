@@ -2306,7 +2306,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gilbarbara/logos</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A huge collection of SVG logos</div>
@@ -2353,7 +2353,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>keepassxreboot/keepassxc</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.</div>
@@ -2651,7 +2651,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.58m out of 100m users</span>
+                                    <span class="gh">ranked 3.58m out of 101m users</span>
                                 </div>
                                 <div class="text">Published 13 public repositories</div>
                             </div>
@@ -2851,7 +2851,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.04m out of 100m users</span>
+                                    <span class="gh">ranked 1.04m out of 101m users</span>
                                 </div>
                                 <div class="text">Followed by 10 users</div>
                             </div>
@@ -3405,7 +3405,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Oct 2022, 08:20:24 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 25 Oct 2022, 09:45:00 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
