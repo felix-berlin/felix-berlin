@@ -1310,7 +1310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browserslist/browserslist</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env</div>
@@ -1469,7 +1469,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gilbarbara/logos</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A huge collection of SVG logos</div>
@@ -2481,7 +2481,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2022, 22:18:54 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Nov 2022, 23:20:27 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
