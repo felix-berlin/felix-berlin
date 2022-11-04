@@ -1310,7 +1310,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browserslist/browserslist</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env</div>
@@ -1920,7 +1920,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 674k out of 352m repositories</span>
+                                    <span class="gh">ranked 675k out of 352m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">32</div>
                                     </div>
@@ -2481,7 +2481,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2022, 18:22:50 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 4 Nov 2022, 19:26:40 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
