@@ -1321,7 +1321,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/core</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.</div>
@@ -1374,7 +1374,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browserslist/browserslist</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env</div>
@@ -2498,7 +2498,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Nov 2022, 13:36:13 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 5 Nov 2022, 14:30:28 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
