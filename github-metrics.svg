@@ -1486,7 +1486,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>inertiajs/inertia</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.</div>
@@ -2504,7 +2504,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2022, 12:18:23 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 7 Nov 2022, 13:45:34 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
