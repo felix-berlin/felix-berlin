@@ -1373,7 +1373,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pa11y/pa11y</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pa11y is your automated accessibility testing pal</div>
@@ -1426,7 +1426,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dequelabs/axe-core</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Accessibility engine for automated Web UI testing</div>
@@ -2497,7 +2497,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2022, 10:19:55 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 11:21:47 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
