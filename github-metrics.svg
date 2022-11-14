@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flemzord/codespaces-laravel</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small project with Laravel and the DevContainer, which allows you to have in a few seconds/minutes, a development environment locally or on Github Codespaces.</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mdx-js/mdx</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Markdown for the component era</div>
@@ -2498,7 +2498,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2022, 23:26:37 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 15 Nov 2022, 00:20:52 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
