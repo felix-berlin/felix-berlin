@@ -1333,7 +1333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flemzord/codespaces-laravel</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Small project with Laravel and the DevContainer, which allows you to have in a few seconds/minutes, a development environment locally or on Github Codespaces.</div>
@@ -1380,7 +1380,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mdx-js/mdx</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Markdown for the component era</div>
@@ -1896,7 +1896,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 959k out of 102m users</span>
+                                    <span class="gh">ranked 960k out of 102m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">11</div>
                                     </div>
@@ -2498,7 +2498,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2022, 17:30:34 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 14 Nov 2022, 18:32:39 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
