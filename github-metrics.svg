@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vueform/multiselect</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vue 3 multiselect component with single select, multiselect and tagging options (+Tailwind CSS support).</div>
@@ -2657,7 +2657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>maggie-j-liu/mail</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free email sending with Cloudflare Workers and MailChannels</div>
@@ -3446,7 +3446,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Nov 2022, 12:05:13 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 26 Nov 2022, 13:06:46 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
