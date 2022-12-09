@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withfig/fig</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Public issue tracker for Fig.</div>
@@ -3165,7 +3165,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 592k out of 362m repositories</span>
+                                    <span class="gh">ranked 593k out of 362m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 39 stars</div>
                             </div>
@@ -3446,7 +3446,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Dec 2022, 12:05:40 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
+                <span>Last updated 9 Dec 2022, 13:07:06 (timezone Europe/Berlin) with lowlighter/metrics@3.29.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
