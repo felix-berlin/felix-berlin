@@ -2483,7 +2483,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-patches</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧩 Patches for ReVanced</div>
@@ -2517,7 +2517,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        859
+                                        861
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2536,7 +2536,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-manager</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💊 Android application to use ReVanced</div>
@@ -3437,7 +3437,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Dec 2022, 06:05:49 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 14 Dec 2022, 07:06:16 (timezone Europe/Berlin) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
