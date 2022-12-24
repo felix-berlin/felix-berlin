@@ -2610,7 +2610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-patches</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧩 Patches for ReVanced</div>
@@ -2663,7 +2663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>revanced/revanced-manager</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💊 Android application to use ReVanced</div>
@@ -3458,7 +3458,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Dec 2022, 05:06:17 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 24 Dec 2022, 06:05:32 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
