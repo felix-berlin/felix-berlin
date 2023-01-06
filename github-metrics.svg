@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>astro-community/astro-critters</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 AstroJS GoogleChromeLabs critters integration. Inline your critical CSS with Astro.</div>
@@ -3447,7 +3447,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Jan 2023, 17:06:02 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 6 Jan 2023, 18:05:34 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
