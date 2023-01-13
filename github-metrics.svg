@@ -2605,7 +2605,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanostores/vue</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vue integration for Nano Stores, a tiny state manager with many atomic tree-shakable stores</div>
@@ -3172,7 +3172,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 558k out of 368m repositories</span>
+                                    <span class="gh">ranked 559k out of 368m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 43 stars</div>
                             </div>
@@ -3453,7 +3453,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2023, 19:05:58 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 13 Jan 2023, 20:05:33 (timezone Europe/Berlin) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
