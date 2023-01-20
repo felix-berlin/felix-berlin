@@ -2499,7 +2499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codecov/codecov-action</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2555,7 +2555,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dailydotdev/daily</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">daily.dev is where developers grow together 👩🏽‍💻 👨‍💻</div>
@@ -2602,7 +2602,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vue-a11y/eslint-plugin-vuejs-accessibility</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An eslint plugin for checking Vue.js files for accessibility</div>
@@ -3316,7 +3316,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.18m out of 368m repositories</span>
+                                    <span class="gh">ranked 4.13m out of 368m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3490,7 +3490,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jan 2023, 05:05:59 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 20 Jan 2023, 06:05:53 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
