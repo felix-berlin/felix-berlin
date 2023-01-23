@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>algolia/docsearch</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2529,7 +2529,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spicetify/spicetify-cli</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.</div>
@@ -3299,7 +3299,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.10m out of 371m repositories</span>
+                                    <span class="gh">ranked 4.08m out of 371m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3473,7 +3473,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jan 2023, 17:05:51 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 23 Jan 2023, 18:05:36 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
