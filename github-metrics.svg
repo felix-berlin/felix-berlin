@@ -2484,7 +2484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Fyrd/caniuse</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Raw browser/feature support data from caniuse.com</div>
@@ -2919,7 +2919,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.66m out of 109m users</span>
+                                    <span class="gh">ranked 2.83m out of 109m users</span>
                                 </div>
                                 <div class="text">Published 17 public repositories</div>
                             </div>
@@ -3310,7 +3310,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.12m out of 380m repositories</span>
+                                    <span class="gh">ranked 4.25m out of 380m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3517,7 +3517,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Feb 2023, 01:21:20 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Feb 2023, 02:34:30 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
