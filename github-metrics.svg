@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>antfu/ni</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💡 Use the right package manager</div>
@@ -3330,7 +3330,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.69m out of 382m repositories</span>
+                                    <span class="gh">ranked 4.68m out of 382m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3537,7 +3537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2023, 17:05:56 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Mar 2023, 18:05:31 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
