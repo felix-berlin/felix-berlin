@@ -2509,7 +2509,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felix-berlin/astro-breadcrumbs</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.</div>
@@ -3542,7 +3542,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Mar 2023, 21:05:34 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 5 Mar 2023, 22:05:49 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
