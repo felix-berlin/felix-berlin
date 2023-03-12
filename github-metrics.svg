@@ -2562,7 +2562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felix-berlin/astro-matomo</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Matomo integration for Astro</div>
@@ -2615,7 +2615,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felix-berlin/sass-butler</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of useful SASS / SCSS mixins and functions.</div>
@@ -3537,7 +3537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Mar 2023, 19:05:58 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 12 Mar 2023, 20:05:15 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
