@@ -2648,7 +2648,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felix-berlin/astro-breadcrumbs</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Well configurable breadcrumb component for Astro.js. Create breadcrumbs completely dynamically or specify exactly how they should look.</div>
@@ -3315,7 +3315,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.70m out of 385m repositories</span>
+                                    <span class="gh">ranked 4.67m out of 385m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3522,7 +3522,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2023, 14:09:38 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 15:09:20 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
