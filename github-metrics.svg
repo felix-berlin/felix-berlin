@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>renovatebot/renovate</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Universal dependency update tool that fits into your workflows.</div>
@@ -2610,7 +2610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felix-berlin/astro-matomo</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Matomo integration for Astro</div>
@@ -2663,7 +2663,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>felix-berlin/sass-butler</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of useful SASS / SCSS mixins and functions.</div>
@@ -3330,7 +3330,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.67m out of 388m repositories</span>
+                                    <span class="gh">ranked 4.70m out of 388m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3537,7 +3537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Mar 2023, 19:05:44 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 25 Mar 2023, 20:05:29 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
