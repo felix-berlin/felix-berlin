@@ -2484,7 +2484,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tatethurston/astrojs-service-worker</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An Astro integration to generate a Service Worker. Powered by Workbox.</div>
@@ -2537,7 +2537,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>browserslist/browserslist-useragent-regexp</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A utility to compile browserslist query to a RegExp to test browser useragent.</div>
@@ -2590,7 +2590,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>laravel/framework</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Laravel Framework.</div>
@@ -3157,7 +3157,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 435k out of 388m repositories</span>
+                                    <span class="gh">ranked 438k out of 388m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 62 stars</div>
                             </div>
@@ -3310,7 +3310,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.71m out of 388m repositories</span>
+                                    <span class="gh">ranked 4.63m out of 388m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3517,7 +3517,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Mar 2023, 15:09:26 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Mar 2023, 16:05:47 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
