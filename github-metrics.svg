@@ -2479,7 +2479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coder/coder</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool that provisions remote development environments via Terraform</div>
@@ -2532,7 +2532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MrDrache333/snowflake-prometheus-exporter</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prometheus Exporter for the snowflake Proxy Server by thetorprojekt</div>
@@ -2585,7 +2585,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skeeto/endlessh</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SSH tarpit that slowly sends an endless banner</div>
@@ -2638,7 +2638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yooooomi/your_spotify</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosted Spotify tracking dashboard</div>
@@ -3114,7 +3114,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 502k out of 112m users</span>
+                                    <span class="gh">ranked 535k out of 112m users</span>
                                 </div>
                                 <div class="text">Followed by 21 users</div>
                             </div>
@@ -3512,7 +3512,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2023, 21:05:26 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Apr 2023, 22:05:40 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
