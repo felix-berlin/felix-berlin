@@ -2479,7 +2479,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>skeeto/endlessh</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SSH tarpit that slowly sends an endless banner</div>
@@ -2532,7 +2532,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Yooooomi/your_spotify</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self hosted Spotify tracking dashboard</div>
@@ -2638,7 +2638,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chriscrowe/docker-pihole-unbound</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Pi-Hole + Unbound on Docker</div>
@@ -3506,7 +3506,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Apr 2023, 03:32:55 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 3 Apr 2023, 04:17:18 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
