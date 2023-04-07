@@ -2493,7 +2493,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paperless-ngx/paperless-ngx</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community-supported supercharged version of paperless: scan, index and archive all your physical documents</div>
@@ -2546,7 +2546,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NLnetLabs/unbound</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unbound is a validating, recursive, and caching DNS resolver.</div>
@@ -2652,7 +2652,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>coder/coder</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A tool that provisions remote development environments via Terraform</div>
@@ -2835,7 +2835,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.678986995208767 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="31.721423682409313 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3143,7 +3143,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="9.92992992992993 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="10.085085085085085 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3166,9 +3166,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 424k out of 391m repositories</span>
+                                    <span class="gh">ranked 420k out of 391m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 65 stars</div>
+                                <div class="text">Maintaining a repository with 66 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3526,7 +3526,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Apr 2023, 16:05:38 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 7 Apr 2023, 17:05:53 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
