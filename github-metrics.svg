@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>duplicati/duplicati</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Store securely encrypted backups in the cloud!</div>
@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>paperless-ngx/paperless-ngx</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A community-supported supercharged version of paperless: scan, index and archive all your physical documents</div>
@@ -2610,7 +2610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NLnetLabs/unbound</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unbound is a validating, recursive, and caching DNS resolver.</div>
@@ -3330,7 +3330,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.72m out of 392m repositories</span>
+                                    <span class="gh">ranked 4.67m out of 392m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3537,7 +3537,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Apr 2023, 09:05:30 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Apr 2023, 10:06:02 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
