@@ -2648,7 +2648,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alaub81/backup_docker_scripts</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Apr 10 2023</span>
                                     </div>
                                 </div>
                                 <div class="field description">with these script you are able to backup your docker environment. There is one for the compose project, for mysql or mariadb, for postgres SQL and for normal docker volumes.</div>
@@ -3315,7 +3315,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.60m out of 399m repositories</span>
+                                    <span class="gh">ranked 4.64m out of 399m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3522,7 +3522,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 May 2023, 02:18:30 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 May 2023, 03:32:16 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
