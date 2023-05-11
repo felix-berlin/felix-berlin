@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blocklistproject/Lists</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Primary Block Lists</div>
@@ -3320,7 +3320,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.47m out of 400m repositories</span>
+                                    <span class="gh">ranked 4.73m out of 400m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3527,7 +3527,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 May 2023, 03:32:33 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 11 May 2023, 04:18:36 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
