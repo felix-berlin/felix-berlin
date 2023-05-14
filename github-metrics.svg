@@ -2603,7 +2603,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NginxProxyManager/nginx-proxy-manager</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Docker container for managing Nginx proxy hosts with a simple, powerful interface</div>
@@ -2656,7 +2656,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>portainer/portainer</span>
-                                        <span>starred 16 days ago</span>
+                                        <span>starred 17 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Making Docker and Kubernetes management easy.</div>
@@ -3323,7 +3323,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.60m out of 401m repositories</span>
+                                    <span class="gh">ranked 4.71m out of 401m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3530,7 +3530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2023, 14:06:37 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 14 May 2023, 15:05:43 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
