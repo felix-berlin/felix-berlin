@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>natemoo-re/astro-icon</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Inline and sprite-based SVGs in Astro made easy!</div>
@@ -2639,7 +2639,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blocklistproject/Lists</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Primary Block Lists</div>
@@ -3306,7 +3306,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.65m out of 402m repositories</span>
+                                    <span class="gh">ranked 4.76m out of 402m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3513,7 +3513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2023, 02:18:02 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 May 2023, 03:33:17 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
