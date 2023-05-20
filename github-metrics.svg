@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>natemoo-re/astro-icon</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Inline and sprite-based SVGs in Astro made easy!</div>
@@ -2592,7 +2592,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ts1/flipbook-vue</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">3D page flip effect for Vue.js</div>
@@ -3153,7 +3153,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 363k out of 402m repositories</span>
+                                    <span class="gh">ranked 372k out of 402m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 79 stars</div>
                             </div>
@@ -3306,7 +3306,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.70m out of 402m repositories</span>
+                                    <span class="gh">ranked 4.76m out of 402m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3513,7 +3513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 May 2023, 12:05:49 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 20 May 2023, 13:05:27 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
