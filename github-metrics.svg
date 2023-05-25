@@ -2635,7 +2635,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>blocklistproject/Lists</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Primary Block Lists</div>
@@ -3126,7 +3126,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.257257257257256 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="12.412412412412412 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3149,9 +3149,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 369k out of 403m repositories</span>
+                                    <span class="gh">ranked 365k out of 403m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 80 stars</div>
+                                <div class="text">Maintaining a repository with 81 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3302,7 +3302,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.67m out of 403m repositories</span>
+                                    <span class="gh">ranked 4.71m out of 403m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3509,7 +3509,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 May 2023, 02:19:02 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 25 May 2023, 03:36:02 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
