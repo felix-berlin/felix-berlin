@@ -2489,7 +2489,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cssnano/cssnano</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modular minifier, built on top of the PostCSS ecosystem.</div>
@@ -2542,7 +2542,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WordPress/two-factor</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Two-Factor Authentication for WordPress.</div>
@@ -3315,7 +3315,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.72m out of 405m repositories</span>
+                                    <span class="gh">ranked 4.59m out of 405m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3522,7 +3522,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2023, 13:05:18 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 May 2023, 14:07:25 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
