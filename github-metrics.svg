@@ -364,13 +364,13 @@
                             12
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 27.77777777777778px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             14
                         </div>
                         <div class="entry">
@@ -2488,7 +2488,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fontsource/fontsource</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Self-host Open Source fonts in neatly bundled NPM packages.</div>
@@ -2541,7 +2541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cssnano/cssnano</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modular minifier, built on top of the PostCSS ecosystem.</div>
@@ -2594,7 +2594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>WordPress/two-factor</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Two-Factor Authentication for WordPress.</div>
@@ -3314,7 +3314,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.62m out of 405m repositories</span>
+                                    <span class="gh">ranked 4.73m out of 405m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3521,7 +3521,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Jun 2023, 13:05:29 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 1 Jun 2023, 14:07:20 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
