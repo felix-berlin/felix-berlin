@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vector-im/element-web</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A glossy Matrix collaboration client for the web.</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>typescript-eslint/typescript-eslint</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2941,7 +2941,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.80m out of 117m users</span>
+                                    <span class="gh">ranked 2.81m out of 117m users</span>
                                 </div>
                                 <div class="text">Published 18 public repositories</div>
                             </div>
@@ -3332,7 +3332,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.60m out of 406m repositories</span>
+                                    <span class="gh">ranked 4.68m out of 406m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3539,7 +3539,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Jun 2023, 21:05:30 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 4 Jun 2023, 22:05:40 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
