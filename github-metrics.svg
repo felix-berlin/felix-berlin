@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MyActionWay/lighthouse-badger-action</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Generates, adds &amp; updates manually/automatically Lighthouse badges &amp; reports from 1,2... URL(s) to 1,2... repo(s) in parallel</div>
@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>XAMPPRocky/tokei</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Count your code, quickly.</div>
@@ -2598,7 +2598,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fork-dev/TrackerWin</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bug and issue tracker for Fork for Windows</div>
@@ -3306,7 +3306,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.54m out of 407m repositories</span>
+                                    <span class="gh">ranked 4.64m out of 407m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3513,7 +3513,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2023, 17:05:27 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jun 2023, 18:06:05 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
