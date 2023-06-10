@@ -2498,7 +2498,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andy-5/wslgit</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Git installed in Bash on Windows/Windows Subsystem for Linux (WSL) from Windows and Visual Studio Code (VSCode)</div>
@@ -3321,7 +3321,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.72m out of 407m repositories</span>
+                                    <span class="gh">ranked 4.68m out of 407m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3528,7 +3528,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2023, 08:06:02 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Jun 2023, 09:05:25 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
