@@ -2473,7 +2473,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>withastro/prettier-plugin-astro</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Prettier plugin for Astro</div>
@@ -2526,7 +2526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>formkit/auto-animate</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.</div>
@@ -2579,7 +2579,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vitejs/awesome-vite</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚡️ A curated list of awesome things related to Vite.js</div>
@@ -3293,7 +3293,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 4.62m out of 408m repositories</span>
+                                    <span class="gh">ranked 4.59m out of 408m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3500,7 +3500,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jun 2023, 09:05:49 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 Jun 2023, 10:06:21 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
