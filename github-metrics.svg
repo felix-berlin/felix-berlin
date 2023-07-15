@@ -2545,7 +2545,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vuejs/eslint-plugin-vue</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Official ESLint plugin for Vue.js</div>
@@ -2803,7 +2803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Jul 2023, 22:05:41 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 15 Jul 2023, 23:05:47 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
