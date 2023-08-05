@@ -2504,7 +2504,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/TypeScript</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript is a superset of JavaScript that compiles to clean JavaScript output.</div>
@@ -2557,7 +2557,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pestphp/pest</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.</div>
@@ -2610,7 +2610,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wp-graphql/wp-graphql-acf</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WPGraphQL for Advanced Custom Fields</div>
@@ -2803,7 +2803,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Aug 2023, 18:06:13 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 5 Aug 2023, 19:05:29 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
