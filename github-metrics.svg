@@ -2494,7 +2494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>privatenumber/pkg-size.dev</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦🔍 Find the true size of an npm package</div>
@@ -2793,7 +2793,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Aug 2023, 07:05:41 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 10 Aug 2023, 08:06:37 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
