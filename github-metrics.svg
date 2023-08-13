@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nanostores/persistent</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Smart store for Nano Stores state manager to keep data in localStorage</div>
@@ -2556,7 +2556,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pnpm/pnpm</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast, disk space efficient package manager</div>
@@ -2609,7 +2609,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kellenmace/replace-internal-link-urls</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2657,7 +2657,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wpengine/wp-graphql-content-blocks</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data</div>
@@ -2809,7 +2809,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2023, 16:05:21 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 17:05:27 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
