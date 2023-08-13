@@ -2503,7 +2503,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kellenmace/replace-internal-link-urls</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2551,7 +2551,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wpengine/wp-graphql-content-blocks</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data</div>
@@ -2604,7 +2604,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>privatenumber/pkg-size.dev</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">📦🔍 Find the true size of an npm package</div>
@@ -2797,7 +2797,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Aug 2023, 09:05:26 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 13 Aug 2023, 10:05:50 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
