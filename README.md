@@ -1,7 +1,7 @@
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 ### Daily.dev profile
-<a href="https://app.daily.dev/felix_berlin"><img src="https://github.com/felix-berlin/felix-berlin/blob/main/devcard.svg" width="400" alt="Felix Scholze's Dev Card"/></a>
+<a href="https://app.daily.dev/felix_berlin"><img src="https://github.com/felix-berlin/felix-berlin/blob/main/devcard.png" width="400" alt="Felix Scholze's Dev Card"/></a>
 
 <!--
 **felix-berlin/felix-berlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
