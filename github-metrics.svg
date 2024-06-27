@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.55m added, 2.48m removed
+                                    1.60m added, 172k removed
                                 </div>
                             </section>
                             <section>
@@ -441,20 +441,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 553kb of code in 301 edited files across 232 commits over last 13 days</small>
+                <small>estimation from 730kb of code in 307 edited files across 238 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="148.22453976602884" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="148.22453976602884" y="0" width="95.01605150993018" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="243.240591275959" y="0" width="81.72957286660017" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="324.97016414255916" y="0" width="52.31577038179015" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="377.2859345243493" y="0" width="44.0894168858257" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="421.37535141017497" y="0" width="24.111725764033736" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="445.48707717420876" y="0" width="7.83422508388501" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.32130225809374" y="0" width="6.67869774190623" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="146.03631559275775" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="146.03631559275775" y="0" width="105.78476622597721" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="251.82108181873494" y="0" width="78.75581284170816" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="330.57689466044314" y="0" width="50.14350656688136" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="380.7204012273245" y="0" width="42.258729041174476" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="422.979130268499" y="0" width="23.110554816727074" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="446.08968508522605" y="0" width="7.508931132493677" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.5986162177197" y="0" width="6.401383782280285" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -466,8 +466,8 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>35.5 kB</div>
-                                <div>32.22%</div>
+                                <div>36.5 kB</div>
+                                <div>31.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -478,8 +478,8 @@
                                 Hack
                             </div>
                             <small>
-                                <div>19.5 kB</div>
-                                <div>17.77%</div>
+                                <div>19.7 kB</div>
+                                <div>17.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -491,7 +491,7 @@
                             </div>
                             <small>
                                 <div>10.5 kB</div>
-                                <div>9.58%</div>
+                                <div>9.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -503,7 +503,7 @@
                             </div>
                             <small>
                                 <div>1.88 kB</div>
-                                <div>1.7%</div>
+                                <div>1.63%</div>
                             </small>
                         </div>
                     </section>
@@ -516,8 +516,8 @@
                                 PHP
                             </div>
                             <small>
-                                <div>22.7 kB</div>
-                                <div>20.66%</div>
+                                <div>26.4 kB</div>
+                                <div>23%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -529,7 +529,7 @@
                             </div>
                             <small>
                                 <div>12.5 kB</div>
-                                <div>11.37%</div>
+                                <div>10.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -541,7 +541,7 @@
                             </div>
                             <small>
                                 <div>5.78 kB</div>
-                                <div>5.24%</div>
+                                <div>5.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -553,7 +553,7 @@
                             </div>
                             <small>
                                 <div>1.60 kB</div>
-                                <div>1.45%</div>
+                                <div>1.39%</div>
                             </small>
                         </div>
                     </section>
@@ -565,7 +565,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 58 commits)</small>
+                    <small class="h-details">(computed from last 61 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -664,13 +664,13 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             17
                         </div>
                         <div class="entry">
-                            <span class="value">9</span>
-                            <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">11</span>
+                            <div class="bar" style="height: 42.30769230769231px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             18
                         </div>
                         <div class="entry">
@@ -725,8 +725,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">8</span>
+                                <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -735,8 +735,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">4</span>
-                                <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3</span>
+                                <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -3433,7 +3433,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 2.46m out of 139m users</span>
+                                    <span class="gh">ranked 2.47m out of 139m users</span>
                                 </div>
                                 <div class="text">Published 23 public repositories</div>
                             </div>
@@ -3617,7 +3617,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 184k out of 206m repositories</span>
+                                    <span class="gh">ranked 184k out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 229 stars</div>
                             </div>
@@ -3748,7 +3748,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.65m out of 206m repositories</span>
+                                    <span class="gh">ranked 1.65m out of 207m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 6 times</div>
                             </div>
@@ -4055,7 +4055,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jun 2024, 20:06:37 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jun 2024, 21:06:20 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
