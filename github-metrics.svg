@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pages-cms/pages-cms</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The No-Hassle CMS for Static Sites Generators</div>
@@ -2725,7 +2725,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>IAmStoxe/wirehole</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WireHole is a combination of WireGuard, Pi-hole, and Unbound in a docker-compose project with the intent of enabling users to quickly and easily create a personally managed full or split-tunnel WireGuard VPN with ad blocking capabilities thanks to Pi-hole, and DNS caching, additional privacy options, and upstream providers via Unbound.</div>
@@ -3125,7 +3125,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Jun 2025, 14:17:34 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Jun 2025, 16:07:32 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
