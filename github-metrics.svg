@@ -331,20 +331,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 512kb of code in 416 edited files across 202 commits over last 14 days</small>
+                <small>estimation from 511kb of code in 413 edited files across 198 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.8624306542259" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="132.8624306542259" y="0" width="108.28402581065549" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="241.14645646488137" y="0" width="59.27708444573156" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="300.4235409106129" y="0" width="47.49993212485407" height="8" fill="#878787"/>
-                    <rect mask="url(#languages-bar)" x="347.923473035467" y="0" width="44.51297320289239" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="392.4364462383594" y="0" width="34.979682706317824" height="8" fill="#ff5a03"/>
-                    <rect mask="url(#languages-bar)" x="427.4161289446772" y="0" width="16.612487216847516" height="8" fill="#f7523f"/>
-                    <rect mask="url(#languages-bar)" x="444.0286161615247" y="0" width="15.971383838475251" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="132.67510640323087" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="132.67510640323087" y="0" width="108.46611640672097" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="241.14122280995187" y="0" width="59.01397406435413" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="300.155196874306" y="0" width="47.579808088911854" height="8" fill="#878787"/>
+                    <rect mask="url(#languages-bar)" x="347.7350049632179" y="0" width="44.58782629190973" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="392.3228312551276" y="0" width="35.038504598341966" height="8" fill="#ff5a03"/>
+                    <rect mask="url(#languages-bar)" x="427.3613358534696" y="0" width="16.64042280269963" height="8" fill="#f7523f"/>
+                    <rect mask="url(#languages-bar)" x="444.0017586561692" y="0" width="15.998241343830879" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -356,8 +356,8 @@
                                 Vue
                             </div>
                             <small>
-                                <div>63.8 kB</div>
-                                <div>28.88%</div>
+                                <div>63.6 kB</div>
+                                <div>28.84%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -368,8 +368,8 @@
                                 SCSS
                             </div>
                             <small>
-                                <div>28.4 kB</div>
-                                <div>12.89%</div>
+                                <div>28.3 kB</div>
+                                <div>12.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -381,7 +381,7 @@
                             </div>
                             <small>
                                 <div>21.3 kB</div>
-                                <div>9.68%</div>
+                                <div>9.69%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -393,7 +393,7 @@
                             </div>
                             <small>
                                 <div>7.98 kB</div>
-                                <div>3.61%</div>
+                                <div>3.62%</div>
                             </small>
                         </div>
                     </section>
@@ -407,7 +407,7 @@
                             </div>
                             <small>
                                 <div>52 kB</div>
-                                <div>23.54%</div>
+                                <div>23.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -419,7 +419,7 @@
                             </div>
                             <small>
                                 <div>22.8 kB</div>
-                                <div>10.33%</div>
+                                <div>10.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -431,7 +431,7 @@
                             </div>
                             <small>
                                 <div>16.8 kB</div>
-                                <div>7.6%</div>
+                                <div>7.62%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -443,7 +443,7 @@
                             </div>
                             <small>
                                 <div>7.67 kB</div>
-                                <div>3.47%</div>
+                                <div>3.48%</div>
                             </small>
                         </div>
                     </section>
@@ -2682,7 +2682,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>un-ts/unuse</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">learn once, use everywhere</div>
@@ -2703,7 +2703,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        250
+                                        253
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2829,7 +2829,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>flutter/flutter</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Flutter makes it easy and fast to build beautiful apps for mobile and beyond</div>
@@ -3135,7 +3135,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Jun 2025, 15:28:00 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 Jun 2025, 19:18:22 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
