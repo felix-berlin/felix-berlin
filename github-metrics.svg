@@ -2672,7 +2672,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bastgau/ha-pi-hole-v6</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🛡️ This custom integration restores compatibility between Home Assistant and Pi-hole, which is no longer supported by the native integration due to API changes.</div>
@@ -3131,7 +3131,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 21 Jul 2025, 04:50:05 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 21 Jul 2025, 10:11:08 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
